@@ -56,7 +56,7 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 
 ## Deploy
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/url-auto-delete-shortener-bot&branch=koyeb&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/LPSMOVIES/v2&branch=main&name=autofilterbot)
 
 
 ## Commands
